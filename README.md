@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
     ```
 4. Run the application:
     ```bash
-    streamlit run app.py
+    streamlit run qrCodeApp.py
     ```
 
 ## Dependencies
@@ -69,4 +69,4 @@ Enjoy generating amazing QR codes!
 ---
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-red?style=flat-square&logo=streamlit)](https://streamlit.io/)
-[![Made by Vishu Vaishnav](https://img.shields.io/badge/Made%20by-Vishu%20Vaishnav-blue?style=flat-square)](https://github.com/yourusername)
+[![Made by Vishu Vaishnav](https://img.shields.io/badge/Made%20by-Vishu%20Vaishnav-blue?style=flat-square)](https://github.com/vishuvaishnav)
